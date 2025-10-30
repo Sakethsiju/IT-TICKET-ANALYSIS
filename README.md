@@ -1,11 +1,11 @@
 
-🧾 IT Ticket Analysis – Spreadsheet Project
+# 🧾 IT Ticket Analysis – Spreadsheet Project
 By Saketh Reddy
-📘 Project Overview
+# 📘 Project Overview
 
 This project focuses on analyzing IT support ticket data (2016–2020) to evaluate agent performance, ticket resolution efficiency, and customer satisfaction trends. Using Microsoft Excel, the study provides actionable insights to optimize IT support operations, staffing, and service quality.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Measure agent productivity and identify performance gaps.
 
@@ -15,7 +15,7 @@ Assess customer satisfaction and detect areas for process improvement.
 
 Recommend strategies for training, automation, and resource allocation.
 
-📊 Key Insights
+# 📊 Key Insights
 
 Ticket volumes doubled from 13K (2016) to 29K (2020), showing rapid growth in support requests.
 
@@ -27,7 +27,7 @@ Customer satisfaction improved slightly from 4.0 (2016) to 4.2 (2020), indicatin
 
 A weak negative correlation was found between issue severity and resolution time.
 
-🧩 Tools & Techniques
+# 🧩 Tools & Techniques
 
 Microsoft Excel: Data cleaning, analysis, and dashboard creation.
 
@@ -39,7 +39,7 @@ Conditional Formatting: To identify outliers and highlight performance trends.
 
 Dashboard: Summarized ticket categories, agent efficiency, and satisfaction metrics for decision support.
 
-💡 Recommendations
+# 💡 Recommendations
 
 Targeted Training: Upskill underperforming agents to improve resolution speed and satisfaction.
 
@@ -49,17 +49,11 @@ Strategic Staffing: Allocate more agents during peak quarters (Q3–Q4) to handl
 
 Continuous Monitoring: Track KPIs like FCR, MTTR, and satisfaction rates for ongoing improvement.
 
-🛠️ Skills Demonstrated
+# 🛠️ Skills Demonstrated
 
 Excel | Data Cleaning | Data Visualization | Dashboard Design | Analytical Thinking | Business Reporting
 
-📂 Project Files
-File	Description
-IT TICKET OBJ (Saketh Reddy)_Update4.docx	Objective-based analysis and formulas
-IT TICKETS SUB (Saketh Reddy)_Update5.docx	Subjective insights and recommendations
-IT Tickets Excel (Saketh Reddy)_Updated4.xlsb	Raw dataset and pivot dashboards
-IT TICKET PPT (Saketh Reddy)_Update4.pptx	Final presentation of findings
-👨‍💻 Author
+# 👨‍💻 Author
 
 Saketh Reddy Enugu
 📧 sakethsiju63@gmail.com
